@@ -60,7 +60,6 @@ function App() {
             <img src={userInfo.picture.thumbnail} />
           </>
         ))}
-        {/* <p> {randomUserDataJSON}</p> */}
       </header>
     </div>
   );
